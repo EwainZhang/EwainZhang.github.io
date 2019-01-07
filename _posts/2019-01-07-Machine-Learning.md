@@ -11,7 +11,7 @@ teminology:(the former often used in statistical literature and the latter often
 + responses(dependent variable): outputs
 
 conventitions:
-1. $X$- denote an input variable
+1. \(X\)- denote an input variable
 2. $X_{j}$- denote the jth component of vector $X$
 3. $Y$- denote quantitative outputs
 4. $G$- qualitative outputs
