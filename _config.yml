@@ -14,7 +14,7 @@ company: UCAS
 company_url: www.ucas.ac.cn
 github_url: https://github.com/EwainZhang  # ex. https://github.com/DONGChuan
 #github_username: # ex. DONGChuan
-description: This is a personnel website of me
+description: This is a personal website of me
 favicon: favicon.png # Image must be in assets/images
 #repository: github_username/github_username.github.io # ex. DONGChuan/DONGChuan.github.io
 
