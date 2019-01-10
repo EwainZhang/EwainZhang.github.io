@@ -1,3 +1,9 @@
+---
+layout: post
+title: DC competition
+category: DC competition
+tags: [Machine-Learning, Competition]
+---
 
 # 文本分类任务
 ## 基本框架
