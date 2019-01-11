@@ -176,7 +176,7 @@ int(), float(), complex() #转化为整数，浮点数，复数的函数
 str() #转化为字符串的函数
 ```
 
-# condition and loop
+# Condition and loop
 + if条件分支
 + while 循环
 + for 循环
@@ -278,7 +278,7 @@ i is t # True
 
 ```
 
-# list and tuple
+# List and tuple
 list: 是可变序列,是可以存储各种数据类型的集合，可以通过index获取列表元素
 ```
 list1 = []
