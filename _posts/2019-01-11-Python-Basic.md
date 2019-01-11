@@ -4,7 +4,8 @@ title: Python
 category: Python
 tags: [Python]
 ---
-# chapter 1. Language Basics
+
+#  Language Basics
 Python is a strongly-typed and dynamically-typed language.
 
 **Remark**
@@ -12,7 +13,8 @@ Python is a strongly-typed and dynamically-typed language.
 2. Dynamically-typed: A variable is simply a value bound to a name.
 3. Execution: Python is first interpreted into vytecode(.pyc) and then compiled by a VM implementation into machine instructions(Most commonly using C).
 
-# chapter 2. Variables and data types
+
+# Variables and data types
 + variable
 + the type of variable: string, number, list, tuple, dictionary
 
@@ -174,7 +176,7 @@ int(), float(), complex() #转化为整数，浮点数，复数的函数
 str() #转化为字符串的函数
 ```
 
-# Chapter 3. 条件分支与循环
+# condition and loop
 + if条件分支
 + while 循环
 + for 循环
@@ -276,7 +278,7 @@ i is t # True
 
 ```
 
-# Chapter4 list and tuple
+# list and tuple
 list: 是可变序列,是可以存储各种数据类型的集合，可以通过index获取列表元素
 ```
 list1 = []
@@ -463,7 +465,7 @@ print(list1)
 id(list1)
 ```
 
-# Chapter 5. dictionary
+# Dictionary
 Dict 是可变的无序集合，以key-value为基本元素的集合
 字典的表示
 ```
@@ -560,7 +562,7 @@ fromkeys(): D.fromkeys(iterable), iterable代表列表对象，用于指定字�
 2.列表嵌入字典
 3. 字典嵌入列表
 
-# Chapter 6. function
+# Function
 The definition of function
 ```
 def function_name([parameter]):
@@ -819,7 +821,7 @@ def sum0():   # 外部函数sum
 
 ```
 
-# chapter 7. class
+# Class
 类的相关注意点
 1. class keyword
 2. class name首字母要大些(约定)
