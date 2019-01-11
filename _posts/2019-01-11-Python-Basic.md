@@ -34,7 +34,7 @@ number: Integer, float, complex, boolean
 Boolean: True 可以用1替换， False可以用0替换
 逻辑运算符
 | operation | property|
-|------     | ------- |
+|：------     | ：------- |
 | and       | 1 and 1 = 1, other 0|
 | or        | 0 or 0 = 0 , other 1|
 | not       | not 0 = 1, not 1 = 0|
