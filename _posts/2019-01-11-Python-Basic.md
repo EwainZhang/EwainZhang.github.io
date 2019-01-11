@@ -2,8 +2,9 @@
 layout: post
 title: Python 
 category: Python
-tags: [Python ]
+tags: [Python]
 ---
+
 # chapter 1. Language Basics
 Python is a strongly-typed and dynamically-typed language.
 
