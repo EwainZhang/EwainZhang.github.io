@@ -21,18 +21,20 @@ string: 由任意字节的字符组成，用单引号，双引号，三对双引
 number: Integer, float, complex, boolean
 
 算数运算符
-| operation | name |
-| ------    |------|
-| +         | plus | 
-| -         | minus|
-| *         | multiply|
-| /         | divide|
-| %         | module |
-| **        | power |
+
+| operation | name           |
+| ------    |------          |
+| +         | plus           | 
+| -         | minus          |
+| *         | multiply       |
+| /         | divide.        |
+| %         | module         |
+| **        | power          |
 | //        | exact division |
 
 Boolean: True 可以用1替换， False可以用0替换
 逻辑运算符
+
 | operation | property|
 |------     | ------- |
 | and       | 1 and 1 = 1, other 0|
@@ -46,6 +48,7 @@ In the latest Python version , use 0b... denote binary number
 14
 ```
 二进制位运算符
+
 | operation | rules |
 |------     | ------ |
 | x & y     | Does a "bitwise and". Each bit of the output is 1 if the corresponding bit of x AND of y is 1, otherwise it's 0.|
@@ -62,6 +65,7 @@ Python:
 
 
  Comparison Operators
+ 
  | Operator | Description |
  | ------   | ------      |
  | ==       | If the values of two operands are equal, then the condition becomes true.|
@@ -71,7 +75,8 @@ Python:
  | >=       | If the value of left operand is greater than or equal to the value of right operand, then condition becomes true.|
  | <=       | If the value of left operand is less than or equal to the value of right operand, then condition becomes true. |
  
- Assignment operators
+ Assignment operators:
+ 
  | Operator | Description |
  |------    | ------      |
  | =        | c = a + b   |
@@ -230,6 +235,7 @@ variable接收sequence集合中获取的成员元素，循环一次接收一次�
 2. 成员运算符、身份运算符
 
 membership operators
+
 | operator | Description |
 |------    | ------      |
 | in       |The ‘in’ operator is used to check if a value exists in a sequence or not. Evaluates to true if it finds a variable in the specified sequence and false otherwise.|
@@ -243,6 +249,7 @@ identity operators
 
 
 Operators Precedence in Python
+
 | Operator | Description |
 |------    | ------      |
 | **       | Exponentiation |
