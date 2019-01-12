@@ -1,3 +1,10 @@
+---
+layout: post
+title: The Anatomy of a C++ Program
+category: C++
+tags: [C++]
+---
+
 # The Anatomy of a C++ Program
 C++ programs are organized into classes comprising member functions and member variables.
 
