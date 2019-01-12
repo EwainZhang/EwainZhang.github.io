@@ -180,7 +180,7 @@ int(), float(), complex() #转化为整数，浮点数，复数的函数
 str() #转化为字符串的函数
 ```
 
-## condition and loop
+## Conditions and loops
 + if条件分支
 + while 循环
 + for 循环
@@ -284,7 +284,7 @@ i is t # True
 
 ```
 
-## list and tuple
+## List and Tuple
 list: 是可变序列,是可以存储各种数据类型的集合，可以通过index获取列表元素
 ```
 list1 = []
@@ -568,7 +568,7 @@ fromkeys(): D.fromkeys(iterable), iterable代表列表对象，用于指定字�
 2.列表嵌入字典
 3. 字典嵌入列表
 
-# Chapter 6. function
+## Functions
 The definition of function
 ```
 def function_name([parameter]):
@@ -827,7 +827,7 @@ def sum0():   # 外部函数sum
 
 ```
 
-## Class
+## Classes
 类的相关注意点
 1. class keyword
 2. class name首字母要大些(约定)
